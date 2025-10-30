@@ -2,7 +2,7 @@
 
 ![image](https://github.com/ycharlene/EEDR/blob/main/images/Figure%202.jpg)
 
-## Code coming soon!
+## Code Coming Soon!
 We will released the code soon.
 
 ## Acknowledgments

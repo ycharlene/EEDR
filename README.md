@@ -2,7 +2,8 @@
 
 ![image](https://github.com/ycharlene/EEDR/blob/main/images/Figure%202.jpg)
 
-The code will come soon.
+## Code coming soon!
+We will released the code soon.
 
 ## Acknowledgments
 Some components of this code implementation are adopted from [IRRA](https://github.com/anosorae/IRRA). We sincerely appreciate for their contributions.
